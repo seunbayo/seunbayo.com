@@ -7,13 +7,13 @@ const metaData = {
   pageTitle:
     "Seunbayo — Software Engineer, Content Creator, and Developer Advocate.",
   description:
-    "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer.",
+    "Seunbayo is a Developer Advocate, a Web3 Advocate, and Community Engineer who currently works as a Developer Advocate at Spheron",
   keywords:
-    "Software Engineer, Content Creator, Developer Advocate, JAMstack Developer, Community Engineer, Web Engineer, Christian, Nigeria",
+    "Software Engineer, Content Creator, Developer Advocate, JAMstack Developer, Community Engineer, Web3 Advocate, Christian, Nigeria",
   previewImage: "/social.png",
   favicon: "/favicon.png",
-  twitterHandle: "@iambolajiayo",
-  url: "https://bolajiayodeji.com",
+  twitterHandle: "@seunbayong",
+  url: "https://seunbayo.com",
   type: "website",
 };
 
@@ -87,8 +87,8 @@ export default function Home() {
           </a>
           .
           <br />
-          <br />
-          Sometimes I create content (on my{" "}
+          <br />I am also the Co-founder of Codeclan, Web3 Nation and at my
+          spare time I create content (on my{" "}
           <a
             href="https://seunbayo.hashnode.dev/"
             target="_blank"
@@ -98,7 +98,7 @@ export default function Home() {
           </a>{" "}
           ,{" "}
           <a
-            href="https://bawd.bolajiayodeji.com"
+            href="https://www.getrevue.co/profile/seunbayo"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -149,6 +149,13 @@ export default function Home() {
             <h2>🎥 YouTube</h2>
             <p>Watch my videos or join my live streams (coming soon!).</p>
           </a> */}
+          <a
+            href="https://www.linkedin.com/in/seunbayo/"
+            className={styles.card}
+          >
+            <h2>💼 Linkedin</h2>
+            <p>Connect with me.</p>
+          </a>
 
           <a href="https://github.com/seunbayo" className={styles.card}>
             <h2>👨🏾‍💻 GitHub</h2>
