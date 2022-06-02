@@ -5,7 +5,7 @@ import Footer from "../components/Footer/Footer";
 
 const metaData = {
   pageTitle:
-    "Bolaji Ayodeji — Software Engineer, Content Creator, and Developer Advocate.",
+    "Seunbayo — Software Engineer, Content Creator, and Developer Advocate.",
   description:
     "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer.",
   keywords:
@@ -61,24 +61,25 @@ export default function Home() {
       <DarkModeToggle />
 
       <main className={styles.main}>
-        <h1 className={styles.title}>BOLAJI AYODEJI</h1>
+        <h1 className={styles.title}>SEUNBAYO</h1>
 
         <p className={styles.description}>
           Hi 👋🏾 <br />
           <br />
-          I'm a Software Engineer, Content Creator, and Community Engineer who
-          currently works as a Developer Advocate at{" "}
+          I'm a Software Engineer, Full Stack Soul Winner for Jesus Christ,
+          Community Advocate and a web3 Advocate who currently works as a
+          Developer Advocate at{" "}
           <a
-            href="https://commercelayer.io"
+            href="http://spheron.network/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Commerce Layer
+            Spheron
           </a>
-          . I'm passionate about sharing knowledge, documentation, web
-          engineering, Jamstack, headless commerce, communities, FOSS, and the{" "}
+          . I'm passionate about sharing knowledge, documentation,web3,
+          communities, FOSS, and the{" "}
           <a
-            href="https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV"
+            href="https://biblehub.com/matthew/6-33.htm"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -86,9 +87,10 @@ export default function Home() {
           </a>
           .
           <br />
-          <br />I create technical content (on my{" "}
+          <br />
+          Sometimes I create content (on my{" "}
           <a
-            href="https://blog.bolajiayodeji.com"
+            href="https://seunbayo.hashnode.dev/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -103,16 +105,16 @@ export default function Home() {
             Newsletter
           </a>
           , and{" "}
-          <a
+          {/*  <a
             href="https://www.youtube.com/c/bolajiayodeji"
             target="_blank"
             rel="noopener noreferrer"
           >
             YouTube)
-          </a>
-          , build useful{" "}
+          </a> */}
+          build useful{" "}
           <a
-            href="https://github.com/BolajiAyodeji"
+            href="https://github.com/seunbayo"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -122,38 +124,41 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://blog.bolajiayodeji.com" className={styles.card}>
+          <a href="https://seunbayo.hashnode.dev/" className={styles.card}>
             <h2>✍🏾 Blog</h2>
             <p>Read my technical and non-technical articles.</p>
           </a>
 
-          <a href="https://bawd.bolajiayodeji.com" className={styles.card}>
+          <a
+            href="https://www.getrevue.co/profile/seunbayo"
+            className={styles.card}
+          >
             <h2>💌 Newsletter</h2>
-            <p>Subscribe to and read my weekly newsletter.</p>
+            <p>Subscribe to and read my Bi-weekly newsletter.</p>
           </a>
 
-          <a href="https://twitter.com/iambolajiayo" className={styles.card}>
+          <a href="https://twitter.com/seunbayong" className={styles.card}>
             <h2>🐦 Twitter</h2>
             <p>Follow me, interact with my tweets and maybe send a DM.</p>
           </a>
 
-          <a
+          {/* <a
             href="https://www.youtube.com/c/bolajiayodeji"
             className={styles.card}
           >
             <h2>🎥 YouTube</h2>
             <p>Watch my videos or join my live streams (coming soon!).</p>
-          </a>
+          </a> */}
 
-          <a href="https://github.com/BolajiAyodeji" className={styles.card}>
+          <a href="https://github.com/seunbayo" className={styles.card}>
             <h2>👨🏾‍💻 GitHub</h2>
             <p>Checkout or contribute to my open source projects.</p>
           </a>
 
-          <a href="https://patreon.com/bolajiayodeji" className={styles.card}>
+          {/* <a href="https://patreon.com/bolajiayodeji" className={styles.card}>
             <h2>💰 Patreon</h2>
             <p>Become my patron and $upport my work.</p>
-          </a>
+          </a> */}
         </div>
       </main>
 
