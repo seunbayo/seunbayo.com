@@ -9,7 +9,7 @@ const metaData = {
   description:
     "Seunbayo is a Developer Advocate, a Web3 Advocate, and Community Engineer who currently works as a Developer Advocate at Spheron",
   keywords:
-    "Software Engineer, Content Creator, Developer Advocate, JAMstack Developer, Community Engineer, Web3 Advocate, Christian, Nigeria",
+    "Software Engineer, Content Creator, Developer Advocate, Web3 Advocate, Christian, Nigeria",
   previewImage: "/social.png",
   favicon: "/favicon.png",
   twitterHandle: "@seunbayong",
@@ -67,8 +67,7 @@ export default function Home() {
           Hi 👋🏾 <br />
           <br />
           I'm a Software Engineer, Full Stack Soul Winner for Jesus Christ,
-          Community Advocate and a web3 Advocate who currently works as a
-          Developer Advocate at{" "}
+          Community Advocate and a web3 Advocate who currently manages Developer Relations at{" "}
           <a
             href="http://spheron.network/"
             target="_blank"
@@ -76,7 +75,7 @@ export default function Home() {
           >
             Spheron
           </a>
-          . I'm passionate about sharing knowledge, documentation,web3,
+          . I'm passionate about onboarding more africans into the web3 ecosystem, sharing knowledge, documentation,
           communities, FOSS, and the{" "}
           <a
             href="https://biblehub.com/matthew/6-33.htm"

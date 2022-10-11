@@ -6,7 +6,7 @@ const footerYear = new Date().getFullYear();
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-      &copy; Seunbayo | {footerYear}.
+      &copy; Seunbayo | {footerYear} 0 by bolaji.
     </footer>
   );
 };
