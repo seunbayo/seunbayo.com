@@ -7,7 +7,7 @@ const metaData = {
   pageTitle:
     "Seunbayo — Software Engineer, Content Creator, and Developer Advocate.",
   description:
-    "Seunbayo is a Developer Advocate, a Web3 Advocate, and Community Engineer who currently works as a Developer Advocate at Spheron",
+    "Seunbayo is a Developer Advocate, a Web3 Advocate, and Community Engineer who currently lead the Developer Relations at Spheron",
   keywords:
     "Software Engineer, Content Creator, Developer Advocate, Web3 Advocate, Christian, Nigeria",
   previewImage: "/social.png",
