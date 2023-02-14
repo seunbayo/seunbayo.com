@@ -5,7 +5,7 @@ import Footer from "../components/Footer/Footer";
 
 const metaData = {
   pageTitle:
-    "Seunbayo — Software Engineer, Content Creator, and Developer Advocate.",
+    "Dear Gbemi — Software Engineer, Content Creator, and Developer Advocate.",
   description:
     "Seunbayo is a Developer Advocate, a Web3 Advocate, and Community Engineer who currently works as a Developer Advocate at Spheron",
   keywords:
@@ -61,114 +61,27 @@ export default function Home() {
       <DarkModeToggle />
 
       <main className={styles.main}>
-        <h1 className={styles.title}>SEUNBAYO</h1>
+        <h1 className={styles.title}>Dear Gbemi</h1>
 
         <p className={styles.description}>
-          Hi 👋🏾 <br />
+          I am speechless but <br />
           <br />
-          I'm a Software Engineer, Full Stack Soul Winner for Jesus Christ,
-          Community Advocate and a web3 Advocate who currently manages Developer Relations at{" "}
-          <a
-            href="http://spheron.network/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Spheron
-          </a>
-          . I'm passionate about onboarding more africans into the web3 ecosystem, sharing knowledge, documentation,
-          communities, FOSS, and the{" "}
-          <a
-            href="https://biblehub.com/matthew/6-33.htm"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            gospel of Jesus Christ
-          </a>
-          .
-          <br />
-          <br />I am also the Co-founder of Codeclan, Web3 Nation and at my
-          spare time I create content (on my{" "}
-          <a
-            href="https://seunbayo.hashnode.dev/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Blog
-          </a>{" "}
-          ,{" "}
-          <a
-            href="https://www.getrevue.co/profile/seunbayo"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Newsletter
-          </a>
-          , and{" "}
-          {/*  <a
-            href="https://www.youtube.com/c/bolajiayodeji"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            YouTube)
-          </a> */}
-          build useful{" "}
-          <a
-            href="https://github.com/seunbayo"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            open-source projects
-          </a>
-          , speak at some meetups/conferences, and build technical communities.
         </p>
+        <p className={styles.description}>WILL YOU DO VALENTINE WITH ME?</p>
+        <h4 className={styles.title}>Be my VAL</h4>
 
         <div className={styles.grid}>
           <a href="https://seunbayo.hashnode.dev/" className={styles.card}>
-            <h2>✍🏾 Blog</h2>
-            <p>Read my technical and non-technical articles.</p>
+            <h2>✍🏾 ö Serious</h2>
           </a>
 
-          <a
-            href="https://www.getrevue.co/profile/seunbayo"
-            className={styles.card}
-          >
-            <h2>💌 Newsletter</h2>
-            <p>Subscribe to and read my Bi-weekly newsletter.</p>
+          <a href="mailto: seunbayo83.com" className={styles.card}>
+            <h2>💌 Yes i will</h2>
+            <p>Click here</p>
           </a>
-
-          <a href="https://twitter.com/seunbayong" className={styles.card}>
-            <h2>🐦 Twitter</h2>
-            <p>Follow me, interact with my tweets and maybe send a DM.</p>
-          </a>
-
-          {/* <a
-            href="https://www.youtube.com/c/bolajiayodeji"
-            className={styles.card}
-          >
-            <h2>🎥 YouTube</h2>
-            <p>Watch my videos or join my live streams (coming soon!).</p>
-          </a> */}
-          <a
-            href="https://www.linkedin.com/in/seunbayo/"
-            className={styles.card}
-          >
-            <h2>💼 Linkedin</h2>
-            <p>Connect with me.</p>
-          </a>
-
-          <a href="https://github.com/seunbayo" className={styles.card}>
-            <h2>👨🏾‍💻 GitHub</h2>
-            <p>Checkout or contribute to my open source projects.</p>
-          </a>
-
-          {/* <a href="https://patreon.com/bolajiayodeji" className={styles.card}>
-            <h2>💰 Patreon</h2>
-            <p>Become my patron and $upport my work.</p>
-          </a> */}
         </div>
       </main>
 
-      <Footer />
     </div>
   );
 }
