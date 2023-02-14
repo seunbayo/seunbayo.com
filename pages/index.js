@@ -5,11 +5,11 @@ import Footer from "../components/Footer/Footer";
 
 const metaData = {
   pageTitle:
-    "Dear Gbemi — Software Engineer, Content Creator, and Developer Advocate.",
+    "Dear Gbemi — My Love, My Sweetheart, My Treasure",
   description:
-    "Seunbayo is a Developer Advocate, a Web3 Advocate, and Community Engineer who currently works as a Developer Advocate at Spheron",
+    "Dear babygirl, This is to you",
   keywords:
-    "Software Engineer, Content Creator, Developer Advocate, Web3 Advocate, Christian, Nigeria",
+    "",
   previewImage: "/social.png",
   favicon: "/favicon.png",
   twitterHandle: "@seunbayong",
