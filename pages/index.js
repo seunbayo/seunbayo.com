@@ -10,7 +10,7 @@ const metaData = {
     "Dear babygirl, This is to you",
   keywords:
     "",
-  previewImage: "/social.png",
+  previewImage: "",
   favicon: "/favicon.png",
   twitterHandle: "@seunbayong",
   url: "https://seunbayo.com",
